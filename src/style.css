@@ -3,3 +3,10 @@
 body{
     background: white;
 }
+
+
+p {
+    font-family: Outfit, sans-serif;
+    font-size: 50px;
+    margin-top: 20px;
+}
